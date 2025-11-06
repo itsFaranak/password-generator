@@ -24,3 +24,4 @@ Then open a terminal in the project folder and run:
 pip install PyQt5
 
 ---
+
